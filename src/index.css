@@ -1,0 +1,44 @@
+* {
+  font-family: "Poppins", sans-serif !important;
+  margin: 0;
+  padding: 0;
+}
+.css-1wzxy0e {
+background-color: #fff!important;
+}
+.css-9n2qpj-MuiStack-root>:not(style)+:not(style){
+  background-color: #F4F4F480!important;
+}
+.css-1t1j96h-MuiPaper-root-MuiDialog-paper{
+  width: 432px;
+  height: 259px;
+}
+.css-o9k5xi-MuiInputBase-root-MuiOutlinedInput-root {
+  background-color: #F4F4F480!important;
+
+}
+
+.css-1b4d4oe-MuiDataGrid-root .paxton-table--row{
+  background-color: #fff!important;
+}
+.css-rtrcn9-MuiTablePagination-root:last-child{
+  width: 100%;
+  margin-top: 2 0px;
+  /* background-color: red; */
+}
+.css-1psng7p-MuiTablePagination-spacer {
+  display: none!important;
+}
+.css-78c6dr-MuiToolbar-root-MuiTablePagination-toolbar{
+  display: flex;
+  justify-content: space-between;
+  /* background: red; */
+}
+.list-item {
+  cursor: pointer;
+  /* background-color: red!important; */
+}
+.list-item.active .listItem-text {
+  /* background-color: yellow; */
+  color: #fff!important;
+}
